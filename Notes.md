@@ -1,0 +1,2 @@
+- "Databases" is given to be CS 433 in PDF but is CS 432 on IMS
+- Any one of the three remaining courses can be counted for 4 credits of BS elective

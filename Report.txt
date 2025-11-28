@@ -1,0 +1,28 @@
+Total credits 165
+All manadatory HSS courses done
+All manadatory Maths courses done
+All manadatory common courses done
+All manadatory CS courses done
+NEED to do IN 108
+All manadatory PE courses done
+GE credits 4 : GE 201, GE 101
+HS credits 20 : HS 151, HS 201, HS 221, HS 192, HS 191, HS 525
+MS credits 0 : 
+DES credits 4 : DES 603
+Total humanities credits 28 / 28
+Materials Basket credits: 3 / 3 : ES 118
+Science Basket credits: 4 / 8 : PH 507
+NEED to do more courses from Science Basket
+Mathematics Basket credits: 6 / 2 : MA 205, MA 206, MA 204
+Algorithms Basket credits: 8 / 8 : CS 328, ES 301
+Systems Basket credits: 9 / 8 : CS 327, CS 432
+Total Project Credits 8 / 4 (Open Project Course) : CS 299, CS 299
+CS Project Credits 8
+CS Project Credits counted as Discipline Elective: 4
+CS elective credits: 29 / 26
+Extra credits: 7
+Courses not considered:
+   Course No                                        Course Name  Credit
+13    MA 601  Applied Linear Algebra, Probability and Statis...     4.0
+28    ES 244             Signals, Systems, and Random Processes     4.0
+58    BE 614                                      Biostatistics     4.0
